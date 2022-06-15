@@ -19,7 +19,7 @@ After running the sql file, run the following command in order to seed the DB th
 npm run seed
 ```
 
-In order to edit the DB in a local host, run the following command:
+Run the following command to turn on the server in a local host
 ```md
 node server.js
 ```
