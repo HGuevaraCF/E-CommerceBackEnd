@@ -27,7 +27,7 @@ node server.js
 
 ### Walktrough video
 ```md
-![link](https://www.youtube.com/watch?v=gjZRQqSDEZY)
+https://www.youtube.com/watch?v=gjZRQqSDEZY
 ```
 
 ### Questions
